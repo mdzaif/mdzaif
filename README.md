@@ -8,7 +8,7 @@
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bf0nwks16s5ecseu5ep0rra%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bf0nwks16s5ecseu5ep0rra%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-zaif-imam-mahi-70aa84241/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&color=blue" alt="mdzaifimammahi" height="30" width="40" /></a>
 <a href="https://fb.com/mdzaifimammahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdzaifimammahi" height="30" width="40" /></a>
 </p>
 
