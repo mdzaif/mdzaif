@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](https://itsfoss.com/content/images/2023/10/Cmatrix.gif)](https://github.com/mdzaif)
+<img align="right" alt="Coding" width="400" src="https://itsfoss.com/content/images/2023/10/Cmatrix.gif">
