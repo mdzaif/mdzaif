@@ -20,7 +20,7 @@
 <br>
 
 # GitHub Status:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaif&show_icons=true&locale=en&theme=radical&layout=compact&card_width=600" height="150" alt="mdzaif" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaif&show_icons=true&locale=en&theme=radical&layout=compact&card_width=300" height="150" alt="mdzaif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaif&show_icons=true&locale=en&theme=radical" height="150" alt="mdzaif" /></p>
 
