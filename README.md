@@ -16,7 +16,8 @@
 
 
 # Tech Stack:
-![C](https://img.shields.io/badge/-C?style=flat&logo=C&logoColor=white&labelColor=blue&color=white)
+![C](https://img.shields.io/badge/-C?style=flat&logo=C&logoColor=white&labelColor=blue&color=white) ![C++](https://img.shields.io/badge/-C%2B%2B?style=flat&logo=C%2B%2B&logoColor=white&labelColor=blue&color=white)
+
 
 <br>
 <br>
