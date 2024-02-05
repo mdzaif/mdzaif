@@ -1,4 +1,4 @@
-<img align="center" src="https://unsplash.com/photos/a-macbook-with-lines-of-code-on-its-screen-on-a-busy-desk-m_HRfLhgABo" alt="well coming" style="width:1000px;height:400px;">
+<img align="center" src="https://github.com/mdzaif/mdzaif/blob/main/it.jpg" alt="well coming" style="width:1000px;height:400px;">
 <h1 align="center"> Hi! I'm Md. Zaif Imam Mahi </h1>
 <h3 align="center">I'm a 4th year CSE student at Port City International University. I enjoy learning Bash and Python scripting, exploring new technologies and Linux distros. I also love reading books and solving OS-related problems.</h3>
 <br>
