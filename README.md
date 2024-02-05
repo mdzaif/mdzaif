@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://itsfoss.com/content/images/2023/10/Cmatrix.gif)](https://github.com/mdzaif)
-### Hi there 👋
+
+<img align="center" src="https://itsfoss.com/content/images/2023/10/Cmatrix.gif" alt="well coming" style="width:1000px;height:200px;"
+<h1 align="center"> Hi! I'm Md Zaif Imam Mahi 👋</h1>
