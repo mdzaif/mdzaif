@@ -1,4 +1,4 @@
-<img align="center" src="https://itsfoss.com/content/images/2023/10/Cmatrix.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finformation-technology&psig=AOvVaw2TeRQqUk_-G19Ii7sEN5zW&ust=1707246970369000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICwytv0lIQDFQAAAAAdAAAAABAE" alt="well coming" style="width:1000px;height:400px;">
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Finformation-technology&psig=AOvVaw2TeRQqUk_-G19Ii7sEN5zW&ust=1707246970369000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICwytv0lIQDFQAAAAAdAAAAABAE" alt="well coming" style="width:1000px;height:400px;">
 <h1 align="center"> Hi! I'm Md. Zaif Imam Mahi </h1>
 <h3 align="center">I'm a 4th year CSE student at Port City International University. I enjoy learning Bash and Python scripting, exploring new technologies and Linux distros. I also love reading books and solving OS-related problems.</h3>
 <br>
