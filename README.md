@@ -3,6 +3,8 @@
 <br>
 <br>
 
+
+
 # Find me at:
 <p align="left">
 <a href="mailto:mdizaif@gmail.com" target="blank"><img align="center" src="https://github.com/mdzaif/mdzaif/blob/main/gmail.svg" alt="mdzaifimammahi" height="30" width="40" /></a>
@@ -19,20 +21,23 @@
 <br>
 
 # GitHub Status:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaif&show_icons=true&locale=en&theme=transparent&layout=compact&card_width=400" height="150" alt="mdzaif" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaif&show_icons=true&locale=en&theme=transparent&layout=compact&card_width=420" height="150" alt="mdzaif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaif&show_icons=true&locale=en&theme=transparent&card_width=500" height="150" alt="mdzaifimammahi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaif&show_icons=true&locale=en&theme=transparent&card_width=100" height="150" alt="mdzaifimammahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=1012" alt="mdzaifimammahi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=500" height="150" alt="mdzaifimammahi" /></p>
 
-###                                       Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdzaif&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=mdzaif&limit=5&theme=transparent&locale=en&card_width=500&combine_all_yearly_contributions=true" height="150" alt="mdzaifimammahi" /></p>
+
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdzaif&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdzaif&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 
+[![](https://visitcount.itsvg.in/api?id=mdzaif&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
