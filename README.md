@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaif&show_icons=true&locale=en&theme=transparent&card_width=500" height="150" alt="mdzaif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=1012" height="200" alt="mdzaif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=1012" height="500" alt="mdzaif" /></p>
 
