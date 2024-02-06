@@ -19,9 +19,9 @@
 <br>
 
 # GitHub Status:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaif&show_icons=true&locale=en&theme=transparent&layout=compact&card_width=400" height="150" alt="mdzaif" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzaifimammahi&show_icons=true&locale=en&theme=transparent&layout=compact&card_width=400" height="150" alt="mdzaif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaif&show_icons=true&locale=en&theme=transparent&card_width=500" height="150" alt="mdzaifimammahi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzaifimammahi&show_icons=true&locale=en&theme=transparent&card_width=500" height="150" alt="mdzaifimammahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=1012" alt="mdzaifimammahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaifimammahi&theme=transparent&card_width=1012" alt="mdzaifimammahi" /></p>
 
