@@ -25,3 +25,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaif&theme=transparent&card_width=1012" alt="mdzaifimammahi" /></p>
 
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdzaif&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mdzaif&icon=9&color=0)](https://visitcount.itsvg.in)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdzaif&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
