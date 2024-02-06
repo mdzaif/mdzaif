@@ -6,7 +6,7 @@
 
 # Find me at:
 <p align="left">
-<a href="mailto:mdizaif@gmail.com" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/t_gmail-new-icon5198.jpg" alt="mdzaifimammahi" height="30" width="40" /></a>
+<a href="mailto:mdizaif@gmail.com" target="blank"><img align="center" src="https://github.com/mdzaif/mdzaif/blob/main/gmail.svg" alt="mdzaifimammahi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-zaif-imam-mahi-70aa84241/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin?style=flat&logo=linkedin&labelColor=blue&color=white" alt="mdzaifimammahi" height="30" width="40" /></a>
 <a href="https://twitter.com/Zaif_Mahi" target="blank"><img align="center" src="https://img.shields.io/badge/-X?style=flat&logo=X&labelColor=black&color=white" height="30" width="40" /></a>
 <a href="https://fb.com/mdzaifimammahi" target="blank"><img align="center" src="https://img.shields.io/badge/-facebook?style=flat&logo=facebook&labelColor=blue&color=white" alt="mdzaifimammahi" height="30" width="40" /></a>
