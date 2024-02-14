@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Md. Zaif Imam Mahi </h1>
 
-![](https://github.com/mdzaif/mdzaif/blob/main/about.gif)
+![](https://github.com/mdzaif/mdzaif/blob/main/about1.gif)
 # Find me at:
 <p align="left">
 <a href="mailto:mdizaif@gmail.com" target="blank"><img align="center" src="https://github.com/mdzaif/mdzaif/blob/main/gmail.svg" alt="mdzaifimammahi" height="30" width="40" /></a>
