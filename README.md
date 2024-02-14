@@ -1,10 +1,6 @@
 <h1 align="center"> Hi! I'm Md. Zaif Imam Mahi </h1>
-<p align="center">I'm a final year CSE student at Port City International University. I enjoy learning Bash and Python scripting, exploring new technologies and Linux distros. I also love reading books and solving OS-related problems.</p>
-<br>
-<br>
 
-
-
+![](https://github.com/mdzaif/mdzaif/blob/main/about.gif)
 # Find me at:
 <p align="left">
 <a href="mailto:mdizaif@gmail.com" target="blank"><img align="center" src="https://github.com/mdzaif/mdzaif/blob/main/gmail.svg" alt="mdzaifimammahi" height="30" width="40" /></a>
