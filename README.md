@@ -18,3 +18,8 @@ Graduated from Port City International University in Chittagong, Bangladesh, wit
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,ansible,proxmox,docker,podman,kubernetes,terminal,tmux,powershell,vscode,vim,jupyter" />
   </a>
 </p>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,tailwindcss,javascript,react" />
+  </a>
+</p>
